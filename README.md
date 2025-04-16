@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yukta2011
-- 👀 I’m interested in AI IN MEDICINE will love to learn python,AI,ML, Data anaylsis in depth
+- 👀 I’m interested in AI IN MEDICINE will love to learn python,AI,ML, Data anaylsis in depth currently focusing on creating projects on python starting from basic to advanced
 - 🌱 I’m currently learning CSE 
 - 💞️ I’m looking to collaborate on AI used in medicine
 - 
