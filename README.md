@@ -5,7 +5,7 @@
 - 
 - 📫 How to reach me email yuktawalanju16@gmail.com
 - 😄 Pronouns: She
-- ⚡ Fun fact: I will be an  asset
+- ⚡ Fun fact: I am an asset
 
 <!---
 Yukta2011/Yukta2011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
